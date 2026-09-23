@@ -1,4 +1,4 @@
-hi ruben, i built a working ai insurance flow for your german venture so you can test live: https://versicher-ai.vercel.app
+hi Ruben, i built a working ai insurance flow for your german venture so you can test live: https://versicher-ai.vercel.app
 code: https://github.com/exelentshakil/versicher-ai | portfolio: https://shakilhq.com
 
 i build end to end in the terminal with claude code daily. the demo models your two verticals: autonomous b2c quote-to-bind (keeping tariff math in plain code so the model never drifts) and b2b legacy workflow migration.
